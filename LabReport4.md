@@ -25,7 +25,7 @@ Type "bash t" and then press <tab> to fill in the rest-- you can press <enter>.
 Step 7: Edit code
 ---
 
-![image](VimLabR4.jpg)
+![image](vimLabR4.jpg)
 
 Type "vim ListExamples.java" to open the code in vim. Press <j> (to go down) 43 times then <l> 12 times to get to the bugged code. Then you press <i> to be able to edit the code. <Backspace> once then replace the 1 in "index1" with a 2. Press <escape> to enter normal mode then type :wq to save and exit vim.   
 
